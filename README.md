@@ -1,4 +1,4 @@
-# website-sederhana
+# website-openkelas.com
 
 Website portofolio sederhana dengan menggunakan HTML, CSS dan Javascript
 
